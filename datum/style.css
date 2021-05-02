@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+   height: 100%;
+}
+header{
+   width: 100%;
+   height: 25%;
+   background-color: lightblue;
+}
+main{
+    background-color:red;
+    width: 100%;
+    height: 50%;
+}
+footer{
+    width: 100%;
+   height: 25%;
+   background-color: lightblue;
+}
